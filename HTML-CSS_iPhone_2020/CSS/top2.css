@@ -1,0 +1,118 @@
+.top2 {
+    background-color: rgb(17, 17, 19);
+    height: 127px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.top2 > * {
+    text-decoration: none;
+}
+
+.image {
+    align-self: center;
+}
+
+.onze-Pro {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-content: center;
+    justify-content: center;
+}
+
+.onze-Pro:hover {
+    color: rgb(2, 154, 255);
+}
+
+.onze {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    display: flex;
+    flex-direction: column-reverse;
+    align-content: center;
+    justify-content: center;
+}
+
+.onze:hover {
+    color: rgb(2, 154, 255);
+}
+
+.SE {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+}
+
+.SE:hover {
+    color: rgb(2, 154, 255);
+}
+
+.XR {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+}
+
+.XR:hover {
+    color: rgb(2, 154, 255);
+}
+
+.compare {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+}
+
+.compare:hover {
+    color: rgb(2, 154, 255);
+}
+
+.airpods {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+}
+
+.airpods:hover {
+    color: rgb(2, 154, 255);
+}
+
+.accesoires {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+}
+
+.accesoires:hover {
+    color: rgb(2, 154, 255);
+}
+.iOS13 {
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+}
+
+.iOS13:hover {
+    color: rgb(2, 154, 255);
+}

@@ -1,0 +1,68 @@
+.middle2 .onze2.onze-pro2{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.onze2 {
+    background-color: rgb(236, 236, 236);
+    height: 800px;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 20px;
+    background-image: url(../assets/Modele2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.onze-pro2 {
+    background-color: black;
+    color: white;
+    margin-left: 8%;
+    margin-right: 8%;
+    height: 800px;
+    margin-top: 20px;
+    background-image: url(../assets/Modele3.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.pad-top-20 {
+    padding-top: 20px;
+    font-size: 35px;
+}
+
+.pad-bot-20 {
+    padding-bottom: 20px;
+}
+
+#no-margin {
+    margin: 0px;
+}
+
+#no-bot-margin {
+    margin-bottom: 0px;
+}
+
+#add-pad-top {
+    padding-top: 15px;
+}
+
+.savoir-plus2 {
+    padding-top: 20px;
+    color: rgb(2, 154, 255);
+    text-decoration: none;
+}
+
+.savoir-plus2:hover {
+    text-decoration: underline;
+}

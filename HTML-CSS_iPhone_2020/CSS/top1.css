@@ -1,0 +1,27 @@
+.top {
+    background-color: black;
+    height: 45px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.top > * {
+    text-decoration: none;
+}
+
+#logo-apple{
+    position: relative;
+    top:-1px;
+}
+
+.top :nth-child(1n) {
+    color: rgb(206, 206, 206);
+}
+
+.top :nth-child(1n):hover {
+    color: rgb(255, 255, 255);
+}
